@@ -1,4 +1,4 @@
-hello:
+bye
 {
     int n;
     printf("Enter a positive integer: ");
